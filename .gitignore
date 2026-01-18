@@ -1,0 +1,35 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Data files
+data/
+*.csv
+*.pkl
+
+# Output files
+outputs/
+
+# Temporary files
+temp_*.csv
+step*.csv
+final*.csv
+
+# API Keys
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
