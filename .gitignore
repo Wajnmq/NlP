@@ -12,9 +12,6 @@ data/
 *.csv
 *.pkl
 
-# Output files
-outputs/
-
 # Temporary files
 temp_*.csv
 step*.csv
